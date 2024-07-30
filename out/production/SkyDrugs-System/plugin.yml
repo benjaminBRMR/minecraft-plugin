@@ -1,0 +1,103 @@
+name: SkyDrugs-System
+main: de.sprachlvs.skydrugs.SkyDrugs
+author: sprachlvs
+version: 2.0
+commands:
+  pvppass:
+  chatfarbe:
+    aliases:
+      - chatcolor
+      - farbe
+  build:
+    aliases:
+      - buildmode
+  spawn:
+  clan:
+    aliases:
+      - gilde
+      - guild
+      - gang
+  warp:
+    aliases:
+      - warps
+  ram:
+  gutschein:
+    aliases:
+      - gutscheine
+  fliegen:
+    aliases:
+      - fly
+      - flugmodus
+  gamemode:
+    aliases:
+      - gm
+  ranginfo:
+    aliases:
+      - rechte
+      - ränge
+  booster:
+    aliases:
+      - boost
+  feuerwerk:
+    aliases:
+      - fw
+      - firework
+  cc:
+    aliases:
+      - clearchat
+  trash:
+    aliases:
+      - müll
+      - mülleimer
+      - t
+  feed:
+  craft:
+    aliases:
+      - wb
+  kopf:
+    aliases:
+      - skull
+      - head
+  rename:
+  event:
+  perk:
+    aliases:
+      - perks
+  buy:
+  enchant:
+  blöcke:
+    aliases:
+      - block
+  cookieclicker:
+    aliases:
+      - cookie
+  setkills:
+  settode:
+    aliases:
+      - setdeaths
+  leavemsg:
+    aliases:
+      - quitmsg
+  joinmsg:
+  hat:
+  clear:
+    aliases:
+      - ci
+  day:
+    aliases:
+      - tag
+  near:
+  night:
+    aliases:
+      - nacht
+  sign:
+  stack:
+  jump:
+  teamchat:
+    aliases:
+      - tc
+  werbung:
+  enderchest:
+    aliases:
+      - ec
+      - enderkiste
